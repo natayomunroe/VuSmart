@@ -5,18 +5,16 @@ Feel free to use any languages or frameworks, but the following information must
 _______________
 _______________
 
-# Single Parents 
+# P.A.M(Parent Assistance Manager)
 
 ## Challenge Statement(s) Addressed 🎯
-**...include the challenge statement(s) the project worked to address**
-
-How might improve the quality of life for single parents , as it relates to food , finance and health
+How might we improve life of a single parent in the city of Denmark?
 
 ## Project Description 🤯
-**....at least 3 sentences describing what the project does and how it works**
+Providing resources for single parents to improve credit, money management, extracurricular activities for children. 
 
 ## Project Value 💰
-**....at least 3 sentences describing your target customer and tangible benefits from your solution**
+Our target audience are single parents who may lack the necessary resources to take care of their children. This application takes their inputted data necessary to their situations and makes an algorithm that would give recommendation to solutions that can aid in alleviating the stress of their living situations. 
 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
@@ -25,8 +23,8 @@ Example:
 * FastAPI
 * Hugging Face AI Models
 * Next.js
-* Dart
-*  * Flutter
+* Java
+* ReactJS
 
 ### Link to Video Pitch 📹
 **...point us to the short clip that tells us about your solution 😄**
@@ -47,14 +45,15 @@ Example:
 - [ ] Code merged to main branch
 
 ### School Name 🏫
-The ABC School
+Voorhees University
 
 ### Team Name 🏷
-Coding Costars
+CodingTigers
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
-* Team member X 
-* Team member Y 
-* Team member Z 
+Nashon Gary
+McKale Murray
+Ashley Chambers
+Bernyla Sparks
+Natayo Munroe
 
