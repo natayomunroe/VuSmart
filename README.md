@@ -5,14 +5,12 @@ Feel free to use any languages or frameworks, but the following information must
 _______________
 _______________
 
-# Project Name
+# Single Parents 
 
 ## Challenge Statement(s) Addressed 🎯
 **...include the challenge statement(s) the project worked to address**
 
-Examples:
-* How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
-* How might we ....
+How might improve the quality of life for single parents , as it relates to food , finance and health
 
 ## Project Description 🤯
 **....at least 3 sentences describing what the project does and how it works**
@@ -27,8 +25,8 @@ Example:
 * FastAPI
 * Hugging Face AI Models
 * Next.js
-* Java
-* ReactJS
+* Dart
+*  * Flutter
 
 ### Link to Video Pitch 📹
 **...point us to the short clip that tells us about your solution 😄**
